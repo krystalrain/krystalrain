@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @krystalrain
+- 👋 Hi, I’m p1x317h13f
 - 👀 I’m interested in cybersecurity and AI
-- 🌱 I’m currently learning about reinforcment learning and technology policy
-
+- 🌱 I’m currently doing research on AI agents
